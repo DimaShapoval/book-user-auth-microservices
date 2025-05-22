@@ -54,6 +54,9 @@ cd book-user-auth-microservices
 
 docker-compose up --build
 ```
+#### У вашому Docker мають з'явитись такі контейнери
+![image](https://github.com/user-attachments/assets/44e63945-5a16-4943-8199-f13fee632fc3)
+
 
 3.  Перевірити доступність:
 
@@ -128,7 +131,8 @@ POST http://localhost:8080/login
 }
 ```
 ### Скріншот тестування 
-![image](https://github.com/user-attachments/assets/83901fea-b07d-4a3b-851d-b8eddadb6b81)
+![image](https://github.com/user-attachments/assets/5fdb2933-2a74-4f2c-9584-ebfb8c8bb335)
+
 
 
 ---
