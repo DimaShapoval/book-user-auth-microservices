@@ -131,8 +131,7 @@ POST http://localhost:8080/login
 }
 ```
 ### Скріншот тестування 
-![image](https://github.com/user-attachments/assets/5fdb2933-2a74-4f2c-9584-ebfb8c8bb335)
-
+![image](https://github.com/user-attachments/assets/f51651b2-e382-450a-a5bd-6eadfa3672e7)
 
 
 ---
